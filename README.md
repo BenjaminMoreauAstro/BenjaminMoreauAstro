@@ -16,8 +16,10 @@ _ALMA Star-Formation Survey of NGC253 and the Milky Way_
 Analysis of ~6,000 potential star-forming regions in NGC253 and the Milky Way searching for star-forming trends
 https://github.com/BenjaminMoreauAstro/Turbulence-and-star-formation-NGC253
 
-[NGC253 Star-formation Poster.pdf](https://github.com/user-attachments/files/22758320/NGC253.Star-formation.Poster.pdf)
+`[NGC253 Star-formation Poster.pdf](https://github.com/user-attachments/files/22758320/NGC253.Star-formation.Poster.pdf)`
 
+
+_CNNs Applied to Find True 3D Inclinations in 2D Images_
 
 Machine-Learning model to detect galactic inclinations in 3d space from 2d images
 
