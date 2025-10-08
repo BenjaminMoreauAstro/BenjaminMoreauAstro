@@ -19,6 +19,7 @@ https://github.com/BenjaminMoreauAstro/Turbulence-and-star-formation-NGC253
 <img width="1179" height="733" alt="image" src="https://github.com/user-attachments/assets/2d452624-07d5-4782-b3de-59f656e3b726" />
 
 
+__________________________________________________________________________________________________________________________
 
 _CNNs Applied to Find True 3D Inclinations in 2D Images_
 
