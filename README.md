@@ -6,6 +6,8 @@ Projects in:   Python, SQL, R, C#,
 Databases:     ALMA, IllustrisTNG, Google BigQuery, PostgreSQL, MySQL
 Visualization: Python, Excel, Tableau
 
+
+__________________________________________________________________________________________________________________________-
 Projects:
 
 Analysis of ~6,000 potential star-forming regions in NGC253 and the Milky Way searching for star-forming trends
