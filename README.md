@@ -3,7 +3,9 @@
 Astrophysicist, specialized in creating data acquisition, image-cleaning, image-analysis, object-detection, and hypothesis testing pipelines for use in large-data sample studies with low-correlation, high-noise data sets.
 
 Projects in:   Python, SQL, R, C#,
+
 Databases:     ALMA, IllustrisTNG, Google BigQuery, PostgreSQL, MySQL
+
 Visualization: Python, Excel, Tableau
 
 
