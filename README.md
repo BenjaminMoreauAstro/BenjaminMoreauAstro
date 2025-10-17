@@ -28,6 +28,8 @@ _CNNs Applied to Find True 3D Inclinations in 2D Images_
 Machine-Learning model to detect galactic inclinations in 3d space from 2d images
 https://github.com/BenjaminMoreauAstro/Kinematic-Inclinations
 
+<img width="980" height="730" alt="image" src="https://github.com/user-attachments/assets/c0e154f8-0f26-47b0-add9-7d6101e4a54e" />
+
 
 Detection of Na crystals in X-Ray crystal samples 
 
