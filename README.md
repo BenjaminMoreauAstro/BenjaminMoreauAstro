@@ -30,6 +30,9 @@ https://github.com/BenjaminMoreauAstro/Kinematic-Inclinations
 
 <img width="980" height="730" alt="image" src="https://github.com/user-attachments/assets/c0e154f8-0f26-47b0-add9-7d6101e4a54e" />
 
+<img width="1398" height="453" alt="image" src="https://github.com/user-attachments/assets/be9e6a86-b47b-4348-aabb-974ade5cc388" />
+
+<img width="696" height="486" alt="image" src="https://github.com/user-attachments/assets/04cef4a3-4134-4607-a3fd-d1ce43ac62eb" />
 
 Detection of Na crystals in X-Ray crystal samples 
 
