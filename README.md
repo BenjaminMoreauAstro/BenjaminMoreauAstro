@@ -34,7 +34,16 @@ https://github.com/BenjaminMoreauAstro/Kinematic-Inclinations
 
 <img width="696" height="486" alt="image" src="https://github.com/user-attachments/assets/04cef4a3-4134-4607-a3fd-d1ce43ac62eb" />
 
-Detection of Na crystals in X-Ray crystal samples 
+__________________________________________________________________________________________________________________________
+
+
+_Na Crystals Sampling Survey in X-Ray Crystal Samples_
+
+Automating lab procedures for fitting model curves to X-Ray crystal samples to speed up imaging time.
+
+<img width="676" height="551" alt="image" src="https://github.com/user-attachments/assets/9fb65c00-b6ee-43ae-8830-7230d1f6d076" />
+
+<img width="721" height="556" alt="image" src="https://github.com/user-attachments/assets/453aafe9-194a-4d3e-80a4-24190a802161" />
 
 
 
